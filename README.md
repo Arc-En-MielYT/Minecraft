@@ -16,7 +16,7 @@ This will download the `.zip` file for MCreator.
 
 The .zip contains the complete MCreator project.
 
-# More Totem
+# More Totem (https://arc-en-mielyt.github.io/Minecraft/Mods/MoreTotem/)
 
 Minecraft version: **26.1.2**  
 Mod loader: **NeoForge 26.1.2**
