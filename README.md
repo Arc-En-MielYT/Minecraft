@@ -15,3 +15,8 @@ Then select the file you want, mainly the `.zip`, and click **"View raw"** or pr
 This will download the `.zip` file for MCreator.
 
 The .zip contains the complete MCreator project.
+
+# More Totem
+
+Minecraft version: **26.1.2**  
+Mod loader: **NeoForge 26.1.2**
