@@ -27,4 +27,4 @@ If your version is based on the original Extra Ore project downloaded from Arc-E
 
 You may not claim the original Extra Ore project or its original content as your own.
 
-The original Extra Ore mod must remain free to download and use. (SOON RELASE ON GITHUB)
+The original Extra Ore mod must remain free to download and use. (SOON RELEASE ON GITHUB)
