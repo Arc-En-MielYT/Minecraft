@@ -1,4 +1,5 @@
-LICENSE FOR MORE TOTEM
+===============
+---LICENSE FOR MORE TOTEM---
 
 More Totem Custom License
 
@@ -11,10 +12,11 @@ If your version is based on the original More Totem project downloaded from Arc-
 
 You may not claim the original More Totem project or its original content as your own.
 
-The original More Totem mod must remain free to download and use.
+**The original More Totem mod must remain free to download and use.**
+===============
 
-
-LICENSE FOR EXTRA ORE
+===============
+---LICENSE FOR EXTRA ORE---
 
 Extra Ore Custom License
 
@@ -27,4 +29,22 @@ If your version is based on the original Extra Ore project downloaded from Arc-E
 
 You may not claim the original Extra Ore project or its original content as your own.
 
-The original Extra Ore mod must remain free to download and use.
+**The original Extra Ore mod must remain free to download and use.**
+===============
+
+===============
+---LICENSE FOR EXTRA ORE : DECORATION DLC (EO : DECORATION DLC)---
+
+Extra Ore : Decoration DLC Custom License
+
+You are allowed to:
+- Use this mod freely.
+- Modify the mod.
+- Publish modified versions of the mod.
+
+If your version is based on the original Extra Ore : Decoration DLC project downloaded from Arc-En-Miel's GitHub, you must credit Arc-En-Miel as the original creator.
+
+You may not claim the original Extra Ore : Decoration DLC project or its original  content as your own.
+
+**The original Extra Ore : Decoration DLC mod must remain free to download and use.**
+===============
