@@ -27,3 +27,8 @@ Mod loader: **NeoForge 26.1.2**
 
 Minecraft version: **26.1.2**  
 Mod loader: **NeoForge 26.1.2**
+
+# Extra Ore : Decoration DLC
+
+Minecraft version: **26.1.2**
+Mod loader: **NeoForge 26.1.2**
