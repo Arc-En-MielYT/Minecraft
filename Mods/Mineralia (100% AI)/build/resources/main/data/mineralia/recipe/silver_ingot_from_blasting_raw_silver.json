@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mineralia:raw_silver"
+  },
+  "result": {
+    "id": "mineralia:silver_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}

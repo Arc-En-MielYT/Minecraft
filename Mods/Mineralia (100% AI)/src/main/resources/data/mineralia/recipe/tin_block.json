@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "mineralia:tin_ingot"
+    }
+  },
+  "result": {
+    "id": "mineralia:tin_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mineralia:ruby_ore",
+    "mineralia:deepslate_ruby_ore",
+    "mineralia:sapphire_ore",
+    "mineralia:deepslate_sapphire_ore"
+  ]
+}

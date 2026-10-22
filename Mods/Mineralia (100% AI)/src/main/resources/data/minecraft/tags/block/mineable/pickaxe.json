@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mineralia:tin_ore",
+    "mineralia:deepslate_tin_ore",
+    "mineralia:silver_ore",
+    "mineralia:deepslate_silver_ore",
+    "mineralia:ruby_ore",
+    "mineralia:deepslate_ruby_ore",
+    "mineralia:sapphire_ore",
+    "mineralia:deepslate_sapphire_ore",
+    "mineralia:tin_block",
+    "mineralia:silver_block",
+    "mineralia:raw_tin_block",
+    "mineralia:raw_silver_block"
+  ]
+}

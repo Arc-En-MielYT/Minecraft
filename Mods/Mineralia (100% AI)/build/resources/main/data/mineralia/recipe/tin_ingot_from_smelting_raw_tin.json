@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mineralia:raw_tin"
+  },
+  "result": {
+    "id": "mineralia:tin_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

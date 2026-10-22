@@ -1,0 +1,20 @@
+{
+  "block.mineralia.tin_ore":"Tin Ore",
+  "block.mineralia.deepslate_tin_ore":"Deepslate Tin Ore",
+  "block.mineralia.silver_ore":"Silver Ore",
+  "block.mineralia.deepslate_silver_ore":"Deepslate Silver Ore",
+  "block.mineralia.ruby_ore":"Ruby Ore",
+  "block.mineralia.deepslate_ruby_ore":"Deepslate Ruby Ore",
+  "block.mineralia.sapphire_ore":"Sapphire Ore",
+  "block.mineralia.deepslate_sapphire_ore":"Deepslate Sapphire Ore",
+  "block.mineralia.tin_block":"Block of Tin",
+  "block.mineralia.silver_block":"Block of Silver",
+  "block.mineralia.raw_tin_block":"Block of Raw Tin",
+  "block.mineralia.raw_silver_block":"Block of Raw Silver",
+  "item.mineralia.raw_tin":"Raw Tin",
+  "item.mineralia.tin_ingot":"Tin Ingot",
+  "item.mineralia.raw_silver":"Raw Silver",
+  "item.mineralia.silver_ingot":"Silver Ingot",
+  "item.mineralia.ruby":"Ruby",
+  "item.mineralia.sapphire":"Sapphire"
+}

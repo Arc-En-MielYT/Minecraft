@@ -1,0 +1,20 @@
+{
+  "block.mineralia.tin_ore":"Minerai d’étain",
+  "block.mineralia.deepslate_tin_ore":"Minerai d’étain des abîmes",
+  "block.mineralia.silver_ore":"Minerai d’argent",
+  "block.mineralia.deepslate_silver_ore":"Minerai d’argent des abîmes",
+  "block.mineralia.ruby_ore":"Minerai de rubis",
+  "block.mineralia.deepslate_ruby_ore":"Minerai de rubis des abîmes",
+  "block.mineralia.sapphire_ore":"Minerai de saphir",
+  "block.mineralia.deepslate_sapphire_ore":"Minerai de saphir des abîmes",
+  "block.mineralia.tin_block":"Bloc d’étain",
+  "block.mineralia.silver_block":"Bloc d’argent",
+  "block.mineralia.raw_tin_block":"Bloc d’étain brut",
+  "block.mineralia.raw_silver_block":"Bloc d’argent brut",
+  "item.mineralia.raw_tin":"Étain brut",
+  "item.mineralia.tin_ingot":"Lingot d’étain",
+  "item.mineralia.raw_silver":"Argent brut",
+  "item.mineralia.silver_ingot":"Lingot d’argent",
+  "item.mineralia.ruby":"Rubis",
+  "item.mineralia.sapphire":"Saphir"
+}

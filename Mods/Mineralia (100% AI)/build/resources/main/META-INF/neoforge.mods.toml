@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+issueTrackerURL=""
+
+[[mods]]
+modId="mineralia"
+version="1.0.0"
+displayName="Mineralia"
+authors="Mineralia"
+description='''Ajoute quatre minerais, leurs blocs, leurs objets et leur génération naturelle.'''
+
+[[dependencies.mineralia]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.172,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.mineralia]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"

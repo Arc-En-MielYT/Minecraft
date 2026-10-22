@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "mineralia:raw_tin"
+    }
+  },
+  "result": {
+    "id": "mineralia:raw_tin_block"
+  }
+}
